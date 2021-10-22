@@ -13,3 +13,8 @@ EX: if L = 8
 its square root is 2, 3, so re assign the values as 3, 3.
 i.e 2 * 3 = 6 which is less than L so use max value for both as 3, 3.
 
+* use the lower value as row and higher value as cols.
+
+Below is the sample output of given program: 
+
+    
