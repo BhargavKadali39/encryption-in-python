@@ -1,7 +1,7 @@
 
 from math import sqrt, ceil
 
-give_me_data = input("Enter data to encrypt ")
+give_me_data = input("Enter data to encrypt: ")
 give_me_data = give_me_data.replace(" ", "")
 size = len(give_me_data)
 
@@ -23,4 +23,4 @@ for j in range(cols):
             encrypting.append(encrypted_data[i][j])
         except IndexError:
             pass
-    print(''.join(encrypting), end=' ')
+    print(''.join(encrypting), end='\n')
