@@ -17,4 +17,16 @@ i.e 2 * 3 = 6 which is less than L so use max value for both as 3, 3.
 
 Below is the sample output of given program: 
 
+    Enter data to encrypt: cloud there is one unifying theme to remember cloud capabilities software infrastructure andplatformare delivered as a service
     
+    csgeasraad
+    lotmpoanra
+    onhbafsdes
+    ueeebttpda
+    dumriwrles
+    tneclauale
+    hitlirctir
+    efootetfvv
+    ryruiiuoei
+    eiedenrrrc
+    inmcsfemee
