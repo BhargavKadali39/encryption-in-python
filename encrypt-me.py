@@ -1,7 +1,7 @@
 
 from math import sqrt, ceil
 
-give_me_data = input()
+give_me_data = input("Enter data to encrypt ")
 give_me_data = give_me_data.replace(" ", "")
 size = len(give_me_data)
 
